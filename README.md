@@ -12,6 +12,5 @@ jupyter notebook SonarProject.ipynb
 ```
 ## 🗃️ File Structure
 - `SonarProject.ipynb`: Main notebook
-- `data/`: Dataset
-- `models/`: Trained model
+- `sonar data.csv`: Dataset
 - `images/`: Visual outputs
